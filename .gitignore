@@ -1,0 +1,41 @@
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Build
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Cache
+.cache/
+.pytest_cache/
+.next/
+.nuxt/
